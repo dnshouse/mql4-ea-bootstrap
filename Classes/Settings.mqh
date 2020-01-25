@@ -67,7 +67,7 @@ public:
         }
       else
         {
-         if((Symbol() == "AUDCAD") || (Symbol() == "AUDCADmicro"))
+         if((Symbol() == "AUDCAD") || (Symbol() == "AUDCADmicro") || (Symbol() == "AUDCAD_ecn"))
            {
             // example preffered settings
             this._StopLoss = 200;
@@ -79,111 +79,111 @@ public:
             this._Baseline_Levels = 0.005;
            }
 
-         if((Symbol() == "AUDCHF") || (Symbol() == "AUDCHFmicro"))
+         if((Symbol() == "AUDCHF") || (Symbol() == "AUDCHFmicro") || (Symbol() == "AUDCHF_ecn"))
            {
            }
 
-         if((Symbol() == "AUDJPY") || (Symbol() == "AUDJPYmicro"))
+         if((Symbol() == "AUDJPY") || (Symbol() == "AUDJPYmicro") || (Symbol() == "AUDJPY_ecn"))
            {
            }
 
-         if((Symbol() == "AUDNZD") || (Symbol() == "AUDNZDmicro"))
+         if((Symbol() == "AUDNZD") || (Symbol() == "AUDNZDmicro") || (Symbol() == "AUDNZD_ecn"))
            {
            }
 
-         if((Symbol() == "AUDUSD") || (Symbol() == "AUDUSDmicro"))
+         if((Symbol() == "AUDUSD") || (Symbol() == "AUDUSDmicro") || (Symbol() == "AUDUSD_ecn"))
            {
            }
 
-         if((Symbol() == "CADCHF") || (Symbol() == "CADCHFmicro"))
+         if((Symbol() == "CADCHF") || (Symbol() == "CADCHFmicro") || (Symbol() == "CADCHF_ecn"))
            {
            }
 
-         if((Symbol() == "CADJPY") || (Symbol() == "CADJPYmicro"))
+         if((Symbol() == "CADJPY") || (Symbol() == "CADJPYmicro") || (Symbol() == "CADJPY_ecn"))
            {
            }
 
-         if((Symbol() == "CHFJPY") || (Symbol() == "CHFJPYmicro"))
+         if((Symbol() == "CHFJPY") || (Symbol() == "CHFJPYmicro") || (Symbol() == "CHFJPY_ecn"))
            {
            }
 
-         if((Symbol() == "EURAUD") || (Symbol() == "EURAUDmicro"))
+         if((Symbol() == "EURAUD") || (Symbol() == "EURAUDmicro") || (Symbol() == "EURAUD_ecn"))
            {
            }
 
-         if((Symbol() == "EURCAD") || (Symbol() == "EURCADmicro"))
+         if((Symbol() == "EURCAD") || (Symbol() == "EURCADmicro") || (Symbol() == "EURCAD_ecn"))
            {
            }
 
-         if((Symbol() == "EURCHF") || (Symbol() == "EURCHFmicro"))
+         if((Symbol() == "EURCHF") || (Symbol() == "EURCHFmicro") || (Symbol() == "EURCHF_ecn"))
            {
            }
 
-         if((Symbol() == "EURGBP") || (Symbol() == "EURGBPmicro"))
+         if((Symbol() == "EURGBP") || (Symbol() == "EURGBPmicro") || (Symbol() == "EURGBP_ecn"))
            {
            }
 
-         if((Symbol() == "EURJPY") || (Symbol() == "EURJPYmicro"))
+         if((Symbol() == "EURJPY") || (Symbol() == "EURJPYmicro") || (Symbol() == "EURJPY_ecn"))
            {
            }
 
-         if((Symbol() == "EURNZD") || (Symbol() == "EURNZDmicro"))
+         if((Symbol() == "EURNZD") || (Symbol() == "EURNZDmicro") || (Symbol() == "EURNZD_ecn"))
            {
            }
 
-         if((Symbol() == "EURUSD") || (Symbol() == "EURUSDmicro"))
+         if((Symbol() == "EURUSD") || (Symbol() == "EURUSDmicro") || (Symbol() == "EURUSD_ecn"))
            {
            }
 
-         if((Symbol() == "GBPAUD") || (Symbol() == "GBPAUDmicro"))
+         if((Symbol() == "GBPAUD") || (Symbol() == "GBPAUDmicro") || (Symbol() == "GBPAUD_ecn"))
            {
            }
 
-         if((Symbol() == "GBPCAD") || (Symbol() == "GBPCADmicro"))
+         if((Symbol() == "GBPCAD") || (Symbol() == "GBPCADmicro") || (Symbol() == "GBPCAD_ecn"))
            {
            }
 
-         if((Symbol() == "GBPCHF") || (Symbol() == "GBPCHFmicro"))
+         if((Symbol() == "GBPCHF") || (Symbol() == "GBPCHFmicro") || (Symbol() == "GBPCHF_ecn"))
            {
            }
 
-         if((Symbol() == "GBPJPY") || (Symbol() == "GBPJPYmicro"))
+         if((Symbol() == "GBPJPY") || (Symbol() == "GBPJPYmicro") || (Symbol() == "GBPJPY_ecn"))
            {
            }
 
-         if((Symbol() == "GBPNZD") || (Symbol() == "GBPNZDmicro"))
+         if((Symbol() == "GBPNZD") || (Symbol() == "GBPNZDmicro") || (Symbol() == "GBPNZD_ecn"))
            {
            }
 
-         if((Symbol() == "GBPUSD") || (Symbol() == "GBPUSDmicro"))
+         if((Symbol() == "GBPUSD") || (Symbol() == "GBPUSDmicro") || (Symbol() == "GBPUSD_ecn"))
            {
            }
 
-         if((Symbol() == "NZDCAD") || (Symbol() == "NZDCADmicro"))
+         if((Symbol() == "NZDCAD") || (Symbol() == "NZDCADmicro") || (Symbol() == "NZDCAD_ecn"))
            {
            }
 
-         if((Symbol() == "NZDCHF") || (Symbol() == "NZDCHFmicro"))
+         if((Symbol() == "NZDCHF") || (Symbol() == "NZDCHFmicro") || (Symbol() == "NZDCHF_ecn"))
            {
            }
 
-         if((Symbol() == "NZDJPY") || (Symbol() == "NZDJPYmicro"))
+         if((Symbol() == "NZDJPY") || (Symbol() == "NZDJPYmicro") || (Symbol() == "NZDJPY_ecn"))
            {
            }
 
-         if((Symbol() == "NZDUSD") || (Symbol() == "NZDUSDmicro"))
+         if((Symbol() == "NZDUSD") || (Symbol() == "NZDUSDmicro") || (Symbol() == "NZDUSD_ecn"))
            {
            }
 
-         if((Symbol() == "USDCAD") || (Symbol() == "USDCADmicro"))
+         if((Symbol() == "USDCAD") || (Symbol() == "USDCADmicro") || (Symbol() == "USDCAD_ecn"))
            {
            }
 
-         if((Symbol() == "USDCHF") || (Symbol() == "USDCHFmicro"))
+         if((Symbol() == "USDCHF") || (Symbol() == "USDCHFmicro") || (Symbol() == "USDCHF_ecn"))
            {
            }
 
-         if((Symbol() == "USDJPY") || (Symbol() == "USDJPYmicro"))
+         if((Symbol() == "USDJPY") || (Symbol() == "USDJPYmicro") || (Symbol() == "USDJPY_ecn"))
            {
            }
         }
